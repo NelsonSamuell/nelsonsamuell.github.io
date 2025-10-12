@@ -10,7 +10,12 @@ sass:
 # Include custom CSS
 include:
   - assets/custom.css
+  -_includes/head/custom.html
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 author:
   name: "Nelson Samuel"
@@ -38,11 +43,6 @@ nav:
     url: /labchallenges
   - title: "Contact"
     url: /contact
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache
 
 # Custom Dark Styling Fixes
 # (Ensures text contrast remains clear and consistent)

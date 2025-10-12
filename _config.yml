@@ -1,0 +1,34 @@
+title: "Nelson Sameul Professional Portfolio"
+description: "Cyber Security Engineer | Ethical Hacker | Digital Forensics Practitioner"
+url: "https://nelsonsamuell.github.io"
+baseurl: ""
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dark"
+
+author:
+  name: "Nelson Samuel"
+  avatar: "/images/profile.jpg"
+  bio: "Cyber Security Professional | Ethical Hacker | Digital Forensics Practitioner"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-link"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /resume
+  - title: "Projects"
+    url: /projects
+  - title: "Lab Challenges"
+    url: /labchallenges
+  - title: "Contact"
+    url: /contact
+

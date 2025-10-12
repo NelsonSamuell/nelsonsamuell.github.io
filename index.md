@@ -1,3 +1,33 @@
+<style>
+  body {
+    background-color: #0d1117;
+    color: #e6edf3;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+  }
+
+  a {
+    color: #58a6ff;
+  }
+
+  a:hover {
+    color: #1f6feb;
+  }
+
+  h1, h2, h3, h4 {
+    color: #ffffff;
+  }
+
+  .site-header, .page__footer {
+    background: #161b22;
+    border: none;
+  }
+
+  .site-title, .site-nav a {
+    color: #e6edf3 !important;
+  }
+</style>
+
 ---
 layout: single
 title: "Home"

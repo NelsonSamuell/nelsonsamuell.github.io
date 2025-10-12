@@ -2,7 +2,7 @@ title: "Nelson Sameul Professional Portfolio"
 description: "Cyber Security Engineer | Ethical Hacker | Digital Forensics Practitioner"
 url: "https://nelsonsamuell.github.io"
 baseurl: ""
-theme: "minimal-mistakes-jekyll"
+remote theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 author:
@@ -31,4 +31,9 @@ nav:
     url: /labchallenges
   - title: "Contact"
     url: /contact
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
 

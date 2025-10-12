@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: single
 title: "Home"
 permalink: /
 ---
 
 # 👋 Hi, I'm **Nelson Samuel**
 
-![Profile Picture](images/profile.jpg){: .profile-pic }
+![Profile Picture](images/Me Image.jpeg){: .profile-pic }
 
 ## 💻 Cyber Security Engineer | Ethical Hacker | Digital Forensics Practitioner
 

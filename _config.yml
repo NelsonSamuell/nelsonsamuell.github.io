@@ -10,7 +10,7 @@ sass:
 # Include custom CSS
 include:
   - assets/custom.css
-  -_includes/head/custom.html
+  -_includes/custom.html
 
 plugins:
   - jekyll-feed

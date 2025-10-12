@@ -7,11 +7,6 @@ minimal_mistakes_skin: "dark"
 sass:
   style: compressed
 
-# Include custom CSS
-include:
-  - assets/css/custom.css
-  - _includes/head/custom.html
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

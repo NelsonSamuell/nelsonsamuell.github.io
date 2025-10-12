@@ -4,6 +4,13 @@ url: "https://nelsonsamuell.github.io"
 baseurl: ""
 remote theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+sass:
+  style: compressed
+
+# Include custom CSS
+include:
+  - assets/css/custom.css
+
 
 author:
   name: "Nelson Samuel"
@@ -36,4 +43,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+# Custom Dark Styling Fixes
+# (Ensures text contrast remains clear and consistent)
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      related: false
 

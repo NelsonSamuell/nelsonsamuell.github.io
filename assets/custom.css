@@ -1,0 +1,35 @@
+/* === DARK THEME TWEAKS === */
+
+/* Improve contrast for body text */
+body {
+  color: #e5e5e5 !important;
+  background-color: #0a0a0a !important;
+}
+
+/* Headings pop better */
+h1, h2, h3, h4, h5 {
+  color: #ffffff !important;
+}
+
+/* Links stand out clearly */
+a, a:visited {
+  color: #00bfff !important; /* Cyber blue */
+}
+a:hover {
+  color: #1e90ff !important;
+}
+
+/* Sidebar and footer */
+.sidebar, .page__footer {
+  background-color: #111111 !important;
+  color: #cccccc !important;
+}
+
+/* Navigation menu readability */
+.site-nav a {
+  color: #f2f2f2 !important;
+}
+.site-nav a:hover {
+  color: #00bfff !important;
+}
+

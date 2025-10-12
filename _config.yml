@@ -9,7 +9,7 @@ sass:
 
 # Include custom CSS
 include:
-  - assets/css/custom.css
+  - assets/custom.css
 
 
 author:

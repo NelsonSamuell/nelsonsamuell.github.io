@@ -62,14 +62,15 @@ a:hover {
   text-align: center;
   padding-top: 6rem;
 }
-
 .profile-pic {
-  width: 400px;
-  height: 400px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 0 20px rgba(0,0,0,0.10);
-  margin-bottom: 1rem;
+  object-position: top; /* <-- shows more of the top part of your image */
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
+  margin-bottom: 1.5rem;
+
 }
 
 /* ===== CARDS ===== */

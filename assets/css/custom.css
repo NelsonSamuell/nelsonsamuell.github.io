@@ -64,11 +64,11 @@ a:hover {
 }
 
 .profile-pic {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 0 20px rgba(0,0,0,0.8);
+  box-shadow: 0 0 20px rgba(0,0,0,0.10);
   margin-bottom: 1rem;
 }
 

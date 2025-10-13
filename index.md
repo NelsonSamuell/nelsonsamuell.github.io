@@ -28,7 +28,6 @@
   }
 </style>
 
-<img src="/images/Me Imgae.jpeg" alt="Nelson Samuel" width="250" style="border-radius: 50%; display: block; margin: 0 auto;">
 
 ---
 layout: single
@@ -39,7 +38,7 @@ permalink: /
 # 👋 Hi, I'm **Nelson Samuel**
 
 ![Profile Picture](images/Me Image.jpeg){: .profile-pic }
-
+<img src="/images/Me Imgae.jpeg" alt="Nelson Samuel" width="250" style="border-radius: 50%; display: block; margin: 0 auto;">
 ## 💻 Cyber Security Engineer | Ethical Hacker | Digital Forensics Practitioner
 
 > _"Securing the digital world, one investigation at a time."_

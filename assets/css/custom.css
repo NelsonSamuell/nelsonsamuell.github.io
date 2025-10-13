@@ -89,8 +89,12 @@ a:hover {
 
 .card img {
   width: 100%;
-  border-radius: 8px;
-  margin-bottom: 0.8rem;
+  height: 250px;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
 }
 
 /* ===== CONTACT ===== */
